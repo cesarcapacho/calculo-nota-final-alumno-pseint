@@ -1,5 +1,5 @@
-Algoritmo ejercicio_04
-	//4 - Calcular  las  calificaciones  de  un  alumno.  La  nota  final  de  cada  alumno  se  calcula  según  el 
+Algoritmo calificaciones
+	//Calcular  las  calificaciones  de  un  alumno.  La  nota  final  de  cada  alumno  se  calcula  según  el 
 	//siguiente  criterio:  la  parte  práctica  vale  el  10%;  la  parte  de  problemas  vale  el  50%  y  la  parte 
 	//teórica  el  40%.  El  algoritmo  leeráel  nombre  del  alumno,  las  tres  notas,  escribiráel  resultado. 
 	//Las notas deben estar entre 0 y 10
